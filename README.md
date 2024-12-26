@@ -19,8 +19,8 @@ A simple banking system application created using Python and Tkinter. This appli
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/simple-banking-system.git
-   cd simple-banking-system
+   git clone https://github.com/LennyDany-03/Bank-System-simple-.git
+   cd Bank-System-simple-
 
 
    
